@@ -1,5 +1,5 @@
-NAME : Preethika N                 
-REG NO : 212223040130
+NAME : Vimala Rani A                 
+REG NO : 212223040240
 
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 # AIM
